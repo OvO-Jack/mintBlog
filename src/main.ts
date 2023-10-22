@@ -25,7 +25,7 @@ import '@wangeditor/editor/dist/css/style.css';
 import router from './router'
 
 //路由守卫
-import './permisstion'
+//import './permisstion'
 
 
 const app = createApp(App)
